@@ -1,0 +1,21 @@
+# Python Virtual Environments (Root or Backend)
+.ven/
+.venv/
+venv/
+backend/.ven/
+backend/.venv/
+backend/venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+*.db
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Environment variables
+.env
+.env.local
